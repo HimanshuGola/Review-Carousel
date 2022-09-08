@@ -38,8 +38,8 @@ h1 {
     margin: 8vh auto;
     background-color: white;
     border-radius: 1rem;
-    box-shadow: 1px 1px 12px 4px rgb(231, 231, 231),
-    -1px -1px 12px 4px rgb(231, 231, 231);
+    box-shadow: 1px 1px 12px 4px rgb(240, 240, 240),
+    -1px -1px 12px 4px rgb(240, 240, 240);
 }
 
 #main-container img {
